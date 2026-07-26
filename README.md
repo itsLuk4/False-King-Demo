@@ -31,8 +31,3 @@ Meaning when you defeat all the monsters you can exit the game.
 ## Play the game
 
 <a href="False King 2D/False King 2D _betterVersion_/index.html"> To play the game, click the link!</a>
-
-or
-
-<a href="https://itsluk4.github.io/FalseKing2Demo/"> To play the game, click the link!</a>
-
